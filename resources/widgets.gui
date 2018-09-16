@@ -4,7 +4,7 @@
     <link rel="import" href="/mnt/sysassets/widgets_common.gui" />
   </defs>
 </svg-->
-<svg viewport-fill="fb-green">
+<svg>
   <defs>
     <link rel="stylesheet" href="styles.css" />
     <link rel="import" href="/mnt/sysassets/widgets_common.gui" />
@@ -12,5 +12,6 @@
     <link rel="import" href="/mnt/sysassets/widgets/baseview_widget.gui" />
     <link rel="import" href="/mnt/sysassets/widgets/cycleview_widget.gui" />
     <link rel="import" href="/mnt/sysassets/widgets/scrollview_widget.gui" />
+    <link rel="import" href="/mnt/sysassets/widgets/tile_list_widget.gui" />
   </defs>
 </svg>

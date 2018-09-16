@@ -2,9 +2,9 @@
   "fitbit": {
     "appUUID": "d2f17b98-39bf-4ac8-8b01-cc54a985f257",
     "appType": "app",
-    "appDisplayName": "test-starter",
+    "appDisplayName": "Knocknock",
     "iconFile": "resources/icon.png",
-    "wipeColor": "#8bc34a",
+    "wipeColor": "#f44336",
     "requestedPermissions": [
       "run_background",
       "access_internet"
@@ -15,7 +15,7 @@
     ],
     "i18n": {
       "en": {
-        "name": "test-starter"
+        "name": "Knocknock"
       }
     }
   }
